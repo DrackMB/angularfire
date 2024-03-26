@@ -23,7 +23,7 @@
     "@angular/platform-server": "~12.2.0",
     "@angular/router": "~12.2.0",
     "@nguniversal/express-engine": "12",
-    "express": "^4.15.2",
+    "express": "^4.19.2",
     "firebase": "^9.6.9",
     "firebase-admin": "^10.0.2",
     "rxjs": "~6.6.0",
